@@ -14,8 +14,8 @@ To attribute sources of evaluation variability, we introduce Factor Variance Att
 
 All model outputs used in this project are generated using **LLaDA**, a diffusion-based language model.
 
-We rely on the official LLaDA implementation and inference pipeline:
-- **LLaDA code and demo**: https://ml-gsai.github.io/LLaDA-demo/
+We rely on the official LLaDA and LLaDA 1.5 implementation and inference pipeline:
+- **LLaDA code and demo**: https://ml-gsai.github.io/LLaDA-demo/ and https://ml-gsai.github.io/LLaDA-1.5-Demo/
 
 No model fine-tuning or performance-oriented hyperparameter tuning is performed. All experiments focus exclusively on **inference-time configuration variability**.
 
