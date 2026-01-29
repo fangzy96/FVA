@@ -1,4 +1,4 @@
-**A Holistic Non-Determinism Evaluation in Diffusion Language Models (ICML 2026 submission)**
+## A Holistic Non-Determinism Evaluation in Diffusion Language Models (ICML 2026 submission)
 
 ---
 
