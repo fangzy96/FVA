@@ -1,4 +1,4 @@
-## A Holistic Non-Determinism Evaluation in Diffusion Language Models (ICML 2026 submission)
+## Dataset-Level Metrics Attenuate Non-Determinism: A Fine-Grained Non-Determinism Evaluation in Diffusion Language Models (ICML 2026 submission)
 
 ---
 
